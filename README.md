@@ -4,5 +4,11 @@
 
 **Langs**  
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB) 
-**Interests**
-**Infra/Tools**
+
+**Interests**  
+asd  
+
+**Infra/Tools**  
+asd  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjaeyou&layout=compact)
