@@ -3,6 +3,6 @@
 ### BackEnd Developer!
 
 **Langs**  
-![Static Badge](https://img.shields.io/badge/%23F7DF1E)  
+![Static Badge](https://img.shields.io/badge/Java)  
 **Interests**
 **Infra/Tools**
