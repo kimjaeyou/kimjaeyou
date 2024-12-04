@@ -11,4 +11,5 @@ asd
 **Infra/Tools**  
 asd  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjaeyou&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjaeyou&layout=compact)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjaeyou&show_icons=true&theme=tokyonight)
