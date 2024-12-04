@@ -2,13 +2,6 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimjaeyou%2Fhit-counter&count_bg=%2379C83D&title_bg=%238985E5&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)
 ### BackEnd Developer!
 
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi,%20I'm%20Young%20Jun!&reversal=false&fontAlign=50&fontAlignY=40)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuperuser1241%2Fhit-counter&count_bg=%23ACA2DC&title_bg=%236A64CE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-### BackEnd Developer, also interested in FrontEnd
-안녕하세요! 항상 새로운 것에 도전하는 백엔드 엔지니어 주영준입니다!
-
 ### SKILLS
 **Langs and FrameWorks**<br>
 ![Open JDK](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=000000)
@@ -32,13 +25,6 @@
 ![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=FFFFFF)
 ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=FFFFFF)
-
-![Compact Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=superuser1241&layout=compact)
-
-![superuser GitHub stats](https://github-readme-stats.vercel.app/api?username=superuser1241&show_icons=true&theme=radical)
-
-
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjaeyou&layout=compact)  
 ![kimjaeyou GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjaeyou&show_icons=true&theme=tokyonight)
