@@ -16,7 +16,6 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=FFFFFF)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF)<br>
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF)
-![C# .NET](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=FFFFFF)
 ![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=FFFFFF)
 
 **MCU**<br>
